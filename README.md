@@ -1,6 +1,7 @@
 # ninbot
 ninbot is a bot for the browser game theninja-rpg.com.
 ninbot logins to your character, fights and trains to level up.
+
 Character profiles are kept in conf.
 
 ## Does it still work?
