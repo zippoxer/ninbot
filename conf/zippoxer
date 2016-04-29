@@ -1,0 +1,12 @@
+[account]
+name = zippoxer
+password = censored
+rank = Chuunin
+
+[battle]
+sequence = Frail Slash, Enchanted Sai, Enchanted Sai, Enchtaned Sai
+rest = 15
+
+[train]
+sequence = nin, tai
+rest = 62

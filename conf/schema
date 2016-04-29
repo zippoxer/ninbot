@@ -1,0 +1,13 @@
+[account]
+name =
+password =
+rank =
+
+[battle]
+sequence =
+rest = 15
+
+[train]
+# Your options are tai, nin, gen or weap.
+sequence =
+rest = 63

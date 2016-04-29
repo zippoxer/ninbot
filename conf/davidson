@@ -1,0 +1,13 @@
+[account]
+name = davidson
+password = censored
+rank = Genin
+
+[battle]
+sequence = Clone Technique, Wooden Staff
+rest = 15
+
+[train]
+# Your options are tai, nin, gen or weap.
+sequence = +nin, +weap
+rest = 63

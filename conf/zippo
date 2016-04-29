@@ -1,0 +1,12 @@
+[account]
+name = zippo
+password = censored
+rank = Genin
+
+[battle]
+sequence = Thunder Roar, Blunt Tipped Sabre
+rest = 15
+
+[train]
+sequence = +nin, +weap
+rest = 62
